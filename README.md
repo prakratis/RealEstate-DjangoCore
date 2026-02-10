@@ -1,13 +1,13 @@
-# RealEstate-DjangoCore 🏠✨
+# RealEstate-DjangoCore
 
 A premium, luxury Real Estate web application built with **Django** and **Bootstrap 5**. This project features a high-contrast Black & Gold theme inspired by the "SOS Infrabulls" aesthetic (Security, Opportunity, Sincerity).
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 This application allows administrators to manage and display property listings dynamically. It focuses on clean UI/UX and a robust backend for handling property data and image uploads.
 
-### ✨ Key Features
+###  Key Features
 * **Luxury Theme:** Deep black background with gold (`#d4af37`) accents.
 * **Dynamic Listings:** Projects are pulled directly from the database and rendered using Django Templating Language (DTL).
 * **Responsive Design:** Fully mobile-friendly layout using the Bootstrap 12-column grid system.
@@ -16,7 +16,7 @@ This application allows administrators to manage and display property listings d
 
 ---
 
-## 🏗️ Technical Architecture (MVT)
+##  Technical Architecture (MVT)
 
 This project follows the **Model-View-Template** pattern:
 
@@ -39,7 +39,7 @@ The dynamic HTML layer.
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
    ```bash
